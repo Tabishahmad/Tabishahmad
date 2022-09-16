@@ -12,4 +12,4 @@ Skills:
 
 
  
-[<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/tabishahmad2020)  
+[<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/tabishahmad2020)   [<img src='https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>]([https://www.instagram.com/hi_man_shoe/](https://www.linkedin.com/in/tabish-ahmad-427a5923/))  
