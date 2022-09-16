@@ -1,5 +1,5 @@
 ### Hi there, my name is Tabish Ahmad
-#### I am a Android Developer [ Kotlin & Compose ]
+#### I am an Android Developer [ Kotlin & Compose ]
 
 Skills:
 
