@@ -7,7 +7,7 @@ Skills:
 
 - I’m currently working on Android/Kotlin/Compose
 - professional with 12 years’ experience in the software application industry.
-- I have 6 years of experience in native Android applications.
+- Experienced in Appium and Selenium for automation testing.
 - Looking for new role for myself, Willing to relocate in EU,UK,USA, Require Visa Sponsorship
 
 
