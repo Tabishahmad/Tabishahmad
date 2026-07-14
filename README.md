@@ -1,10 +1,10 @@
 ### Hey, I'm Tabish Ahmad 👋
 
-**Senior Mobile SDK Engineer · Former Co-founder @ [Sensible Mobiles](https://sensiblemobiles.com)**
+**Senior Android Developer @ Appice · SDK Architect · Former Co-founder @ [Sensible Mobiles](https://sensiblemobiles.com)**
 
-8+ years hands-on Android engineering · 18+ years in technology · 100+ apps shipped (80+ via Sensible Mobiles)
+18+ years in technology · 100+ apps shipped (80+ via Sensible Mobiles) · SDK integrated into banking apps serving 10M+ users
 
-Currently building production Android SDKs, Kotlin/Compose apps, and platform tooling used across client and internal teams.
+Currently building and maintaining a mobile SDK integrated into leading Indian banking apps — background systems, analytics tracking, push notification infrastructure, and modular SDK architecture at production scale.
 
 <img src='https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge' height='32'/> <img src='https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge' height='32'/> <img src='https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge' height='32'/> <img src='https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge' height='32'/> <img src='https://img.shields.io/badge/Hilt-000000?style=for-the-badge' height='32'/>
 
