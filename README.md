@@ -1,6 +1,6 @@
 ### Hey, I'm Tabish Ahmad 👋
 
-**Senior Mobile SDK Engineer · Co-founder @ [Sensible Mobiles](https://sensiblemobiles.com)**
+**Senior Mobile SDK Engineer · Former Co-founder @ [Sensible Mobiles](https://sensiblemobiles.com)**
 
 8+ years hands-on Android engineering · 18+ years in technology · 100+ apps shipped (80+ via Sensible Mobiles)
 
@@ -17,6 +17,8 @@ Currently building production Android SDKs, Kotlin/Compose apps, and platform to
 **Featured work:**
 - 🔗 [Portfolio & case studies](https://tabishahmadportfolio.web.app/) — SDK design, SWYFT Ride Share, Live Train Status
 - 📱 [BookList-Android](https://github.com/Tabishahmad/BookList-Android) — same app built with both Fragments/XML MVVM and Jetpack Compose, Clean Architecture + Hilt + tests
+- 🏥 [FamilyMedicalRecords](https://github.com/Tabishahmad/FamilyMedicalRecords) — multi-module Compose app with Gemini API + ML Kit OCR for AI-assisted document explanation
+- 🎬 [CineBrowse](https://github.com/Tabishahmad/CineBrowse) — paginated movie catalog with Jetpack Paging, Room-backed offline favorites
 
 Open to Android / Mobile SDK engineering conversations — reach out via [LinkedIn](https://www.linkedin.com/in/tabish-ahmad-427a5923/) or the portfolio.
 
