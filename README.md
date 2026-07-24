@@ -1,6 +1,6 @@
 ### Hey, I'm Tabish Ahmad 👋
 
-**Senior Android Developer @ Appice · SDK Architect · Former Co-founder @ [Sensible Mobiles](https://sensiblemobiles.com)**
+**Senior Android Developer @ Appice · SDK Architect · Former Co-founder @ [Sensible Mobiles](http://sensiblemobiles.com/home/index.php)**
 
 18+ years in technology · 100+ apps shipped (80+ via Sensible Mobiles) · SDK integrated into banking apps serving 10M+ users
 
